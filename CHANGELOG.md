@@ -1,3 +1,6 @@
+## 0.6.2+2
+* Fix ios build via flutter (!Protobuf podspec file dependency)
+
 ## 0.6.2+1
 * Fix ios build (podspec file)
 
